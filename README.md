@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I’m a developer specializing in web development.
 - I’m working on projects that involve **new technologies**, like **server-side rendering** with Next.js 14 and exploring **cloud services** like **AWS** and **Docker**.
 
 ## 🛠️ Tech Stack
-**Front-end:** React, Next.js, TypeScript, Tailwind CSS, DaisyUI  
-**Back-end:** Node.js, Django, GraphQL, REST APIs, Django REST Framework  
-**Languages:** JavaScript, TypeScript, Python, Java, 
-**Database:** PostgreSQL, MongoDB, Drizzle ORM, Turso  
-**Deployment & Tools:** Vercel, Netlify, Git, Docker (beginner), AWS (beginner)
+- **Front-end:** React, Next.js, TypeScript, Tailwind CSS, DaisyUI  
+- **Back-end:** Node.js, Django, GraphQL, REST APIs, Django REST Framework  
+- **Languages:** JavaScript, TypeScript, Python, Java, 
+- **Database:** PostgreSQL, MongoDB, Drizzle ORM, Turso  
+- **Deployment & Tools:** Vercel, Netlify, Git, Docker (beginner), AWS (beginner)
 
 ## 🚀 Projects
 - **Vendora**: A mock e-commerce site built with **Django and React** to get hands-on with full stack development.
