@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m a developer specializing in web development. I’m open-minded, curious, and driven by the belief that technology can make a meaningful difference in people's lives.
 
 ## 👨‍💻 What I Do
-- I specialize in **full stack web development**, with experience in both **front-end** (React, Next.js, TypeScript) and **back-end** (Node.js, GraphQL, REST APIs, Python).
+- I specialize in **full stack web development**, with experience in both **front-end** and **back-end**.
 - I enjoy building applications that are **accessible**, **responsive**, and **user-friendly**.
 - I’m working on projects that involve **new technologies**, like **server-side rendering** with Next.js 14 and exploring **cloud services** like **AWS** and **Docker**.
 
