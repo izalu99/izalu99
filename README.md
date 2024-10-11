@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a developer specializing in web development.
 - I specialize in **full stack web development**, with experience in both **front-end** and **back-end**.
 - I enjoy building applications that are **accessible**, **responsive**, and **user-friendly**.
 - I’m working on projects that involve **new technologies**, like **server-side rendering** with Next.js 14 and exploring **cloud services** like **AWS** and **Docker**.
-- Though I'm learning Django and How it can be used with React.
+- Though these days I'm learning Django and How it can be used with React.
 
 ## 🛠️ Tech Stack
 
