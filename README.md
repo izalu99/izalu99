@@ -30,4 +30,4 @@ Welcome to my GitHub profile! I’m a developer specializing in web development.
 - Continuously refining my craft to deliver solutions that solve real-world problems.
 
 ## 📫 Get in Touch
-Feel free to connect with me through [email](iccetea478@gmail.com), or [another email](iccetea.codes@gmail.com). I’m always open to collaborating on exciting new ideas!
+Feel free to connect with me through [email](iccetea478@gmail.com). I’m always open to collaborating on exciting new ideas!
