@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I’m a developer specializing in web development.
 
 
 ## 🚀 Projects
-- **Vendora**: A mock e-commerce site built with **Django and React** to get hands-on with full stack development.
+- **Vendora**: A mock e-commerce site built with **Django and React** to get hands-on with full-stack development using those two.
 - **Art Roam**: A JAMstack web app for exploring artworks from **open museum APIs**, featuring a responsive and accessible design.
-- **Kali**: A **digital library of Kankanaey words** aiming to preserve a Northern Philippine dialect. It’s both a cultural project and a learning experience for me.
+- **Kali**: A NextJS full-stack **digital library** aiming to preserve a Northern Philippine dialect. It’s both a cultural project and a learning experience with Drizzle, Turso, GraphQL and Contentful.
 
 ## 🌱 Learning & Goals
 - I’m exploring **infrastructure automation** and cloud services, sparked by my previous work where I got exposed to **CI/CD pipelines**.
