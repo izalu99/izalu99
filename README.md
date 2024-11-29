@@ -3,10 +3,7 @@
 Welcome to my GitHub profile! I’m a developer specializing in web development. I’m open-minded, curious, and driven by the belief that technology can make a meaningful difference in people's lives.
 
 ## 👨‍💻 What I Do
-- I specialize in **full stack web development**.
-- I enjoy building applications that are **accessible**, **responsive**, and **user-friendly**.
-- I’m working on projects that involve **new technologies**, like **server-side rendering** with Next.js 14 and exploring **cloud services** like **AWS** and **Docker**.
-- These days I'm learning Django and how it can be used with React to learn a more simple approach in web development. (I feel like there's so many web frameworks out there which are awesome, but I kind of want to explore what's its like using frameworks with built-in tools and see if they resonate more with me.)
+- 
 
 ## 🛠️ Tech Stack
 
@@ -25,9 +22,7 @@ Welcome to my GitHub profile! I’m a developer specializing in web development.
 - **Art Roam**: A JAMstack web app for exploring artworks from **open museum APIs**, featuring a responsive and accessible design.
 
 ## 🌱 Learning & Goals
-- I’m exploring **infrastructure automation** and cloud services, sparked by my previous work where I got exposed to **CI/CD pipelines**.
-- Working on **Vendora**, **Kali**, and **ArtRoamv2** as pinned below.
-- Continuously refining my craft to deliver solutions that solve real-world problems.
+
 
 ## 📫 Get in Touch
-Feel free to connect with me through [email](iccetea478@gmail.com). I’m always open to collaborating on exciting new ideas!
+
